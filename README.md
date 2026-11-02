@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 # Reshma Mani
 ### Master's Student in Artificial Intelligence | Aspiring AI Engineer
 
@@ -83,4 +83,4 @@ Artificial Intelligence · Machine Learning · Intelligent Agents · Reinforceme
 ---
 
 *Continuously learning, researching, and building intelligent solutions.*
--->
+
